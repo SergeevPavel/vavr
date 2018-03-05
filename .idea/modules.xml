@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/vavr/vavr.iml" filepath="$PROJECT_DIR$/vavr/vavr.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vavr-benchmark/vavr-benchmark.iml" filepath="$PROJECT_DIR$/vavr-benchmark/vavr-benchmark.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vavr-match/vavr-match.iml" filepath="$PROJECT_DIR$/vavr-match/vavr-match.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vavr-parent.iml" filepath="$PROJECT_DIR$/vavr-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vavr-test/vavr-test.iml" filepath="$PROJECT_DIR$/vavr-test/vavr-test.iml" />
+    </modules>
+  </component>
+</project>

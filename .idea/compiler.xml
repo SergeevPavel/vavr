@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="vavr" />
+        <module name="vavr-benchmark" />
+        <module name="vavr-test" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="vavr" target="1.8" />
+      <module name="vavr-benchmark" target="1.8" />
+      <module name="vavr-match" target="1.8" />
+      <module name="vavr-parent" target="1.5" />
+      <module name="vavr-test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
